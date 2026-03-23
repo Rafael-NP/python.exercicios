@@ -1,3 +1,5 @@
+# Faça um programa que solicite 5 números, calcule e apresente a soma total
+
 i = 1
 soma = 0
 while i < 6:

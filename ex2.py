@@ -1,3 +1,5 @@
+# Crie um programa que receba dois números e apresente a soma, subtração, multiplicação e a divisão.
+
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 print("Soma: ", num1 + num2)
